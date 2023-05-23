@@ -1,2 +1,2 @@
-# aicredovo
-ping pong
+# pongtwo
+Jogo pong no JavaScript
